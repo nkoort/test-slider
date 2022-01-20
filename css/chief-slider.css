@@ -34,6 +34,7 @@
 }
 @media (min-width: 1801px) {
   .slider__item {
+    
     flex: 0 0 20%;
   }
 }
