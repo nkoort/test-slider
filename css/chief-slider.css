@@ -11,6 +11,11 @@
   position: relative;
 }
 
+@media (max-width: 800px) {
+  .slider-2 {
+    display: none;
+  }
+}
 .slider__container {
   overflow: hidden;
 }
